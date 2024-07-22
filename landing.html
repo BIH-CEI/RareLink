@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header with Buttons</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #2980b9; /* Header background color */
+            color: white; /* Text color */
+            padding: 15px; /* Space inside the header */
+            text-align: center; /* Center the text */
+        }
+        .buttons {
+            display: flex; /* Use flexbox for alignment */
+            justify-content: center; /* Center the buttons horizontally */
+            margin-top: 20px; /* Space above the buttons */
+        }
+        .button {
+            background-color: #008CBA; /* Button background color */
+            border: none; /* Remove default border */
+            color: white; /* Text color */
+            padding: 15px 20px; /* Space inside the button */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Ensure buttons line up horizontally */
+            font-size: 16px; /* Font size */
+            margin: 5px; /* Space between buttons */
+            border-radius: 5px; /* Rounded corners */
+        }
+        .button:hover {
+            background-color: #005f73; /* Change background on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>RareDIF</h1>
+    </div>
+    <div class="buttons">
+        <a href="https://bih-cei.github.io/RareDIF/stable/" class="button">Stable Documentation</a>
+        <a href="https://bih-cei.github.io/RareDIF/latest/" class="button">Latest Documentation</a>
+    </div>
+</body>
+</html>
