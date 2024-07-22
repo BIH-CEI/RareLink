@@ -1,0 +1,16 @@
+rare\_dif package
+=================
+
+.. automodule:: rare_dif
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 2
+
+   rare_dif.example
+   rare_dif.numpy_example

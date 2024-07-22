@@ -1,0 +1,7 @@
+rare\_dif.numpy\_example.sum\_over\_array module
+================================================
+
+.. automodule:: rare_dif.numpy_example.sum_over_array
+   :members:
+   :undoc-members:
+   :show-inheritance:

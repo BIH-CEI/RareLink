@@ -1,0 +1,15 @@
+rare\_dif.numpy\_example package
+================================
+
+.. automodule:: rare_dif.numpy_example
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   rare_dif.numpy_example.sum_over_array

@@ -1,0 +1,7 @@
+rare\_dif.example.minus module
+==============================
+
+.. automodule:: rare_dif.example.minus
+   :members:
+   :undoc-members:
+   :show-inheritance:
